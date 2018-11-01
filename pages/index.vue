@@ -19,6 +19,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding: 100px;
 
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,429ee5+100 */
   background: #1e5799; /* Old browsers */
@@ -42,14 +43,14 @@
   font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 7vw;
   color: white;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 42px;
+  font-size: 4vw;
   color: #f0f0f0;
   word-spacing: 5px;
   padding-bottom: 15px;
